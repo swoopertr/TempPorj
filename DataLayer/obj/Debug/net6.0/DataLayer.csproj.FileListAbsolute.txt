@@ -1,0 +1,15 @@
+C:\Devs\Free\Template\TempProj\DataLayer\bin\Debug\net6.0\DataLayer.deps.json
+C:\Devs\Free\Template\TempProj\DataLayer\bin\Debug\net6.0\DataLayer.dll
+C:\Devs\Free\Template\TempProj\DataLayer\bin\Debug\net6.0\DataLayer.pdb
+C:\Devs\Free\Template\TempProj\DataLayer\bin\Debug\net6.0\Repository.dll
+C:\Devs\Free\Template\TempProj\DataLayer\bin\Debug\net6.0\Repository.pdb
+C:\Devs\Free\Template\TempProj\DataLayer\obj\Debug\net6.0\DataLayer.csproj.AssemblyReference.cache
+C:\Devs\Free\Template\TempProj\DataLayer\obj\Debug\net6.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Devs\Free\Template\TempProj\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfoInputs.cache
+C:\Devs\Free\Template\TempProj\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfo.cs
+C:\Devs\Free\Template\TempProj\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Devs\Free\Template\TempProj\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CopyComplete
+C:\Devs\Free\Template\TempProj\DataLayer\obj\Debug\net6.0\DataLayer.dll
+C:\Devs\Free\Template\TempProj\DataLayer\obj\Debug\net6.0\refint\DataLayer.dll
+C:\Devs\Free\Template\TempProj\DataLayer\obj\Debug\net6.0\DataLayer.pdb
+C:\Devs\Free\Template\TempProj\DataLayer\obj\Debug\net6.0\ref\DataLayer.dll

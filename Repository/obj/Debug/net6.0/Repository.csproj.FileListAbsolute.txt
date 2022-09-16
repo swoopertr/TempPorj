@@ -1,0 +1,12 @@
+C:\Devs\Free\Template\TempProj\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Devs\Free\Template\TempProj\Repository\bin\Debug\net6.0\Repository.dll
+C:\Devs\Free\Template\TempProj\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Devs\Free\Template\TempProj\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Devs\Free\Template\TempProj\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Devs\Free\Template\TempProj\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Devs\Free\Template\TempProj\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Devs\Free\Template\TempProj\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Devs\Free\Template\TempProj\Repository\obj\Debug\net6.0\Repository.dll
+C:\Devs\Free\Template\TempProj\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Devs\Free\Template\TempProj\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Devs\Free\Template\TempProj\Repository\obj\Debug\net6.0\ref\Repository.dll
